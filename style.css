@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-    background-image: url('v.jpg');
+    background-image: url('fondo.jpg');
 }
 .form-register {
   width: 400px;
